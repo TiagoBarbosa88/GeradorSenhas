@@ -1,2 +1,4 @@
 # GeradorSenhas
-Gerador de Senhas usando JavaScript 
+Gerador de Senhas feito através de aula usando JavaScript 
+
+
